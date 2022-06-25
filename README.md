@@ -1,4 +1,4 @@
-### Hello, 👋 I'm web developer from Yogyakarta Indonesia
+### Hello, 👋 I'm software engineer from Yogyakarta Indonesia
 
 <!--
 **ahmadrockets/ahmadrockets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
